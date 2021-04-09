@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# 👋 I’m Ediongsenyene Joseph I.
+- 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God
+- 🌱 I’m currently learning Front End development at zuri
+- 💞️ I’m looking to collaborate on building a platform from which truth can go forth
+- 📫 You can reach me on twitter [@iediong](https://twitter.com/iediong)
+- 💬 Ask me about God
+
+
+
 <!--
 **IEdiong/IEdiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
