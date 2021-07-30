@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God
 - 🌱 I’m currently learning Front End development at zuri
 - 💞️ I’m looking to collaborate on building a platform from which truth can go forth
-- 📫 You can reach me on twitter [@iediong](https://twitter.com/iediong)
+- 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong)
 - 💬 Ask me about God
 
 
