@@ -2,7 +2,7 @@
 
 # 👋 I’m Ediongsenyene Joseph I.
 - 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God
-- 🌱 I’m currently learning Back-end development with Nodejs and express
+- 🌱 I’m currently learning Back-end development with Nodejs and express and some ReactJs features
 - 🔭 I’m currently working on something
 - 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong) or via [email](mailto:ediongi6@hotmail.com)
 
