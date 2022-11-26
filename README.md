@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 # 👋 I’m Ediongsenyene Joseph I.
-- 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God
-- 🌱 I’m currently learning C and Shell scripting
+<!-- - 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God -->
+<!-- - 🌱 I’m currently learning C and Shell scripting -->
+- 🌱 I’m currently learning C# and ASP.NET for web APIs
 - 🔭 I’m currently working with NextJs and Chakra-UI
 - 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong) or via [email](mailto:ediongi6@hotmail.com)
 
