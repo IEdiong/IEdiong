@@ -3,39 +3,23 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<!-- # 👋 I’m Ediongsenyene Joseph I. -->
-<!-- - 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God -->
-<!-- - 🌱 I’m currently learning C and Shell scripting -->
-<!-- - 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong) or via [email](mailto:ediongi6@hotmail.com) -->
-- 🔭 I’m currently working on becoming a fullstack developer
-- 🌱 I’m currently learning C, C# and ASP.NET for web APIs
-- 🔭 I’m currently working with NextJs, TailwindCSS and Chakra-UI to build frontend applications
-- 👨🏽‍🏫 I also teach and mentor beginner frontend developers
+<br />
+
+### 🧐 More About Me:
+- 🔭 &nbsp; I’m currently working on becoming a fullstack developer
+- 🌱 &nbsp; I’m currently learning C, C# and ASP.NET for web APIs
+- 🔭 &nbsp; I’m currently working with NextJs, TailwindCSS and Chakra-UI to build frontend applications
+- 👨🏽‍🏫 &nbsp; I also teach and mentor beginner frontend developers
+
+<br />
+
+### 🔨 Languages and Tools:
 
 
 
-
-<!--
-**IEdiong/IEdiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-==================================================================================================
-- 🌱 I’m currently learning Back-end development with Nodejs and express and some ReactJs features
-==================================================================================================
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
 <div align="center" >
@@ -81,3 +65,29 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
 </p>
+
+
+<!--
+**IEdiong/IEdiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+==================================================================================================
+- 🌱 I’m currently learning Back-end development with Nodejs and express and some ReactJs features
+==================================================================================================
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<!-- # 👋 I’m Ediongsenyene Joseph I. -->
+<!-- - 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God -->
+<!-- - 🌱 I’m currently learning C and Shell scripting -->
+<!-- - 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong) or via [email](mailto:ediongi6@hotmail.com) -->
