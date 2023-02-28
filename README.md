@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Ediongsenyene Joseph I.
+### Hi there 👋, I’m Ediongsenyene Joseph
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -7,6 +7,7 @@
 </p>
 
 <br />
+---
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on becoming a fullstack developer
@@ -15,11 +16,12 @@
 - 👨🏽‍🏫 &nbsp; I also teach and mentor beginner frontend developers
 
 <br />
+---
 
 ### 🔨 Languages and Tools:
 
 
-
+<br />
 ---
 
 <div align="center" >
