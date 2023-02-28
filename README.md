@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m Ediongsenyene Joseph I.
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -6,12 +6,15 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-# 👋 I’m Ediongsenyene Joseph I.
+<!-- # 👋 I’m Ediongsenyene Joseph I. -->
 <!-- - 👀 I’m interested in web development, computer repairs and maintenance, Kingdom MATTERS and meeting people that fear God -->
 <!-- - 🌱 I’m currently learning C and Shell scripting -->
-- 🌱 I’m currently learning C# and ASP.NET for web APIs
-- 🔭 I’m currently working with NextJs and Chakra-UI
-- 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong) or via [email](mailto:ediongi6@hotmail.com)
+<!-- - 📫 You can reach me on linkedIn [@iediong](https://linkedin.com/in/iediong) or via [email](mailto:ediongi6@hotmail.com) -->
+- 🔭 I’m currently working on becoming a fullstack developer
+- 🌱 I’m currently learning C, C# and ASP.NET for web APIs
+- 🔭 I’m currently working with NextJs, TailwindCSS and Chakra-UI to build frontend applications
+- 👨🏽‍🏫 I also teach and mentor beginner frontend developers
+
 
 
 
