@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iediong&layout=compact" width="30%" align="left"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iediong&layout=compact" width="35%" align="left"  />
 </a>
 </div>
 
