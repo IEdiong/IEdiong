@@ -155,11 +155,12 @@
 </a>
 &#8287;&#8287;&#8287;
 
+<br />
 
 ## 📈 GitHub Stats
 <div align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iediong&layout=compact" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iediong&layout=compact&langs_count=8" width="35%" />
 </a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <picture >
@@ -174,8 +175,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true" />
 </picture>
 </div>
-
-
 
 
 <!-- Badges -->
