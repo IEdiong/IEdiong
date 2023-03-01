@@ -7,22 +7,18 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=00fe99&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-<!--   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/IEdiong"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/IEdiong"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.simpleicons.org/twitter/#1DA1F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> -->
+<a href="https://iediong.hashnode.dev/"><img width="32px" alt="Hashnode" title="Hashnode" src="https://cdn.simpleicons.org/hashnode/#2962FF"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> -->
+<a href="https://www.hackerrank.com/IEdiong"><img width="32px" alt="HackerRank" title="HackerRank" src="https://cdn.simpleicons.org/hackerrank/#00EA64"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
 
@@ -163,6 +159,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iediong&layout=compact&langs_count=8" width="38%" />
 </a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
+   
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=iediong&bg_color=30,aafe99,1da1f2&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/iediong/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/iediong/github-stats-transparent/output/generated/languages.svg) -->
+   
 <picture >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true&theme=radical"
@@ -172,9 +174,11 @@
   srcset="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true&text_color=00fe99" />
 </picture>
 </div>
+
+
 
 
 <!-- Badges -->
