@@ -165,7 +165,7 @@
 ![](https://raw.githubusercontent.com/iediong/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/iediong/github-stats-transparent/output/generated/languages.svg) -->
    
-<!-- <picture >
+<picture >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
@@ -175,7 +175,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true&text_color=00fe99" />
-</picture> -->
+</picture>
 </div>
 
 
