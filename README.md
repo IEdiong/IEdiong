@@ -26,7 +26,7 @@
 ## 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on becoming a fullstack developer
 - 🌱 &nbsp; I’m currently learning C# and ASP.NET for web APIs, and Storybook for documenting UI components
-- 🔭 &nbsp; I’m currently working with NextJs, TailwindCSS and Chakra-UI to build frontend applications
+- 🔭 &nbsp; I’m currently working with NextJs, Angular, Redux, TailwindCSS, Chakra-UI and more..., to build frontend applications
 - 👨🏽‍🏫 &nbsp; I also teach and mentor beginner frontend developers
 
 
