@@ -61,12 +61,13 @@
 &#8287;&#8287;&#8287;
 <!-- TailwindCSS -->
 <a href="https://tailwindcss.com/" target="_blank" >
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindCSS" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindCSS" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- Angular -->
 <a href="https://www.angular.io" target="_blank" >
-  <img height="48" width="48" src="https://cdn.simpleicons.org/angular/#DD0031" alt="angular" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" />
+  <!-- <img height="48" width="48" src="https://cdn.simpleicons.org/angular/#DD0031" alt="angular" /> -->
 </a>
 &#8287;&#8287;&#8287;
 <!-- ReactJs -->
