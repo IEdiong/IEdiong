@@ -54,6 +54,11 @@
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" />
 </a>
 &#8287;&#8287;&#8287;
+<!-- SCSS -->
+<a href="https://www.scss-lang.com/" target="_blank" >
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS" />
+</a>
+&#8287;&#8287;&#8287;
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstarp" />
