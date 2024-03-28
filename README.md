@@ -85,6 +85,11 @@
   <img height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="nextjs" />
 </a>
 &#8287;&#8287;&#8287;
+<!-- Kotlin -->
+<a href="https://kotlinlang.org/" target="_blank" >
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" />
+</a>
+&#8287;&#8287;&#8287;
 
 ### 👽 &#8287; Backend Stack
 <!-- C# -->
