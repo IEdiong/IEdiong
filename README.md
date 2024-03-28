@@ -87,7 +87,7 @@
 &#8287;&#8287;&#8287;
 <!-- NextJs -->
 <a href="https://nextjs.org/" target="_blank" >
-  <img height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="nextjs" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- Kotlin -->
