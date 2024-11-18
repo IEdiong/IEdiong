@@ -11,7 +11,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<!-- <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/IEdiong"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.simpleicons.org/twitter/#1DA1F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -19,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.hackerrank.com/IEdiong"><img width="32px" alt="HackerRank" title="HackerRank" src="https://cdn.simpleicons.org/hackerrank/#00EA64"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+</p> -->
 
 
 
@@ -82,7 +82,17 @@
 &#8287;&#8287;&#8287;
 <!-- Chakra UI -->
 <a href="https://chakra-ui.com/" target="_blank" >
-  <img height="48" width="48" src="https://cdn.simpleicons.org/chakraui/#319795" alt="chakra-ui" />
+  <img height="48" width="48" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="chakra-ui" />
+</a>
+&#8287;&#8287;&#8287;
+<!-- Shadcn UI -->
+<a href="https://ui.shadcn.com/" target="_blank" >
+  <img height="48" width="48" src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="shadcn-ui" />
+</a>
+&#8287;&#8287;&#8287;
+<!-- Material UI -->
+<a href="https://mui.com/" target="_blank" >
+  <img height="48" width="48" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="material-ui" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- NextJs -->
@@ -134,9 +144,14 @@
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 &#8287;&#8287;&#8287;
+<!-- Rider -->
+<a href="https://www.jetbrains.com/rider" target="_blank" >
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="rider" />
+</a>
+&#8287;&#8287;&#8287;
 <!-- Visual Studio -->
 <a href="https://www.dotnet.microsoft.com" target="_blank" >
-  <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudio/#5C2D91" alt="visual studio" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visual studio" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- Slack -->
