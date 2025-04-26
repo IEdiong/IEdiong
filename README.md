@@ -25,7 +25,6 @@
 
 ## 🧐 More About Me:
 - 🔭 &nbsp; I’m a fullstack developer
-<!-- - 🌱 &nbsp; I’m currently learning C# and ASP.NET for web APIs. -->
 - 🔭 &nbsp; I’m currently working with NextJs, Angular, Redux, NgRx, TailwindCSS, Chakra-UI and more..., to build frontend applications and C# with ASP.NET for web APIs.
 - 👨🏽‍🏫 &nbsp; I also teach and mentor beginner frontend developers
 
