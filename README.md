@@ -106,7 +106,7 @@
 </a>
 &#8287;&#8287;&#8287;
 
-### 👽 &#8287; Backend Stack
+### 👽 &#8287; Backend Stack (with some DevOps)
 <!-- C# -->
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C sharp" />
@@ -119,12 +119,17 @@
 &#8287;&#8287;&#8287;
 <!-- NESTJS -->
 <a href="https://nestjs.com" target="_blank">
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-us" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
+</a>
+&#8287;&#8287;&#8287;
+<!-- GCP -->
+<a href="https://cloud.google.com" target="_blank" >
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google cloud" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- Linux -->
@@ -190,12 +195,15 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iediong&layout=compact&langs_count=8" width="38%" />
 </a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   
+
+   <!-- Old -->
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=iediong&bg_color=30,aafe99,1da1f2&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/iediong/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/iediong/github-stats-transparent/output/generated/languages.svg) -->
-   
+   <!-- New
+   https://github.com/stats-organization/github-stats-extended
+   -->
 <picture >
 <source 
   srcset="https://github-stats-extended.vercel.app/api?username=iediong&show_icons=true&theme=radical"
