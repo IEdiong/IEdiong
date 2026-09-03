@@ -6,9 +6,10 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=00fe99&vCenter=true&pause=1000&size=25" /></a>
-</p>
+  <!-- Old -->
+  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(frontend%20heavy);3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=640&height=45&color=00fe99&vCenter=true&pause=1000&size=25" /></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FE99&width=640&lines=Software+Engineer+%28Full+stack%29;4%2B+years+of+experience;Backend+Tech+stack%3A+.NET+%26+Nodejs;Frontend+Tech+stack%3A+Angular+%26+Reactjs" alt="Typing SVG" /></a>
 
 <!-- Social icons section -->
 <!-- <p align="center">
@@ -24,9 +25,9 @@
 
 
 ## 🧐 More About Me:
-- 🔭 &nbsp; I’m a fullstack developer
-- 🔭 &nbsp; I’m currently working with NextJs, Angular, Redux, NgRx, TailwindCSS, Chakra-UI and more..., to build frontend applications and C# with ASP.NET for web APIs.
-- 👨🏽‍🏫 &nbsp; I also teach and mentor beginner frontend developers
+- 🔭 &nbsp; I’m a software engineer
+- 👨🏽‍🏫 &nbsp; I also teach and mentor junior software engineers
+<!-- - 🔭 &nbsp; I’m currently working with NextJs, Angular, Redux, NgRx, TailwindCSS, Chakra-UI and more..., to build frontend applications and C# with ASP.NET for web APIs. -->
 
 
 
@@ -116,6 +117,11 @@
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" />
 </a>
 &#8287;&#8287;&#8287;
+<!-- NESTJS -->
+<a href="https://nestjs.com" target="_blank">
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+</a>
+&#8287;&#8287;&#8287;
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-us" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
@@ -181,7 +187,7 @@
 ## 📈 GitHub Stats
 <div align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iediong&layout=compact&langs_count=8" width="38%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iediong&layout=compact&langs_count=8" width="38%" />
 </a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    
@@ -192,7 +198,7 @@
    
 <picture >
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=iediong&show_icons=true&theme=radical"
+  srcset="https://github-stats-extended.vercel.app/api?username=iediong&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
